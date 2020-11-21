@@ -17,3 +17,10 @@ Alunos:
 - Claudia
 - Andrea
 - ...
+
+Vamos estudar um pouco de:
+- git
+- html
+- css
+- js
+
