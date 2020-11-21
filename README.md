@@ -1,0 +1,3 @@
+Nosso estudo geral... 
+Fazendo uma calculadora
+com os alunos da Toti
