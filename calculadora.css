@@ -1,0 +1,29 @@
+body{
+    border: 0;
+    margin: 0;
+}
+
+.calculadora{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tela{
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    height: 50px;    
+}
+
+.teclado{
+    width: 100%;
+}
+
+button{
+    padding: 0;
+    margin: 2px;
+    border: 2;
+    width: calc(95%/4);
+    height: 50px;
+}
